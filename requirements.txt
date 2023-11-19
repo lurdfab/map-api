@@ -1,0 +1,19 @@
+django
+pillow
+djangorestframework
+django-filter
+djangorestframework-gis
+psycopg2
+psycopg2-binary
+# # djmail
+# # django-jinja
+python-decouple
+
+
+
+
+
+#pip3 install -r requirements.txt (run command to install these libraries)
+
+# sudo apt-get update
+# sudo apt-get install postgis (install PostGIS using the following commands)
